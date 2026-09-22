@@ -2,7 +2,7 @@
 
 
 
-> * Программа 1. *
+> * Программа 1. 
 
 
 
@@ -35,7 +35,7 @@ namespace dimanchik999
 </picture>
 
 
-> * Программа 2. *
+> * Программа 2. 
 
 ```csharp
 using System;
@@ -63,12 +63,12 @@ namespace dimanchik999
 
 ```
 
-* Результат выполнения: *
+* Результат выполнения: 
 <picture>
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.1.2.png">
 </picture>
 
-> * Программа 3. *
+> * Программа 3. 
 
 ```csharp
 using System;
@@ -100,7 +100,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.1.3.png">
 </picture>
 
-> * Программа 4. *
+> * Программа 4. 
 
 ```csharp
 using System;
@@ -131,7 +131,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.1.4.png">
 </picture>
 
-> ### Программа 5. 
+> * Программа 5. 
 
 ```csharp
 using System;
@@ -164,7 +164,7 @@ namespace dimanchik999
 
 ---
 
-> ### Программа 6. 
+> * Программа 6. 
 
 ```csharp
 using System;
@@ -193,7 +193,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.1.6.png">
 </picture>
 
-> ### Программа 7.
+> * Программа 7.
 
 ```csharp
 using System;
@@ -224,7 +224,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.1.7.png">
 </picture>
 
-> ### Программа 8. 
+> * Программа 8. 
 
 ```csharp
 using System;
@@ -257,7 +257,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.1.8.png">
 </picture>
 
-> ### Программа 9. 
+> * Программа 9. 
 
 ```csharp
 using System;
@@ -291,7 +291,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.1.9.png">
 </picture>
 
-> ### Программа 10. 
+> ** Программа 10. 
 
 ```csharp
 using System;
@@ -325,7 +325,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.1.10.png">
 </picture>
 
-> ### Программа 11. 
+> * Программа 11. 
 
 ```csharp
 using System;
@@ -357,7 +357,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.2.1.png">
 </picture>
 
-> ### Программа 12. 
+> * Программа 12. 
 
 ```csharp
 using System;
@@ -388,7 +388,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.2.2.png">
 </picture>
 
-> ### Программа 13. 
+> * Программа 13. 
 
 ```csharp
 using System;
@@ -419,7 +419,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 14. 
+> * Программа 14. 
 
 ```csharp
 using System;
@@ -453,7 +453,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.2.4.png">
 </picture>
 
-> ### Программа 15. 
+> * Программа 15. 
 
 ```csharp
 using System;
@@ -484,7 +484,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.2.5.png">
 </picture>
 
-> ### Программа 16. 
+> * Программа 16. 
 
 ```csharp
 using System;
@@ -514,7 +514,7 @@ namespace dimanchik999
 
 
 
-> ### Программа 17. 
+> * Программа 17. 
 
 ```csharp
 using System;
@@ -544,7 +544,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 18. 
+> * Программа 18. 
 
 ```csharp
 using System;
@@ -573,7 +573,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 19. 
+> * Программа 19. 
 
 ```csharp
 using System;
@@ -605,7 +605,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.2.9.png">
 </picture>
 
-> ### Программа 20. 
+> * Программа 20. 
 
 ```csharp
 using System;
@@ -636,7 +636,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.2.10.png">
 </picture>
 
-> ### Программа 21. 
+> * Программа 21. 
 
 ```csharp
 using System;
@@ -668,7 +668,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 22. 
+> * Программа 22. 
 
 ```csharp
 using System;
@@ -699,7 +699,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.3.2.png">
 </picture>
 
-> ### Программа 23. 
+> * Программа 23. 
 
 ```csharp
 using System;
@@ -730,7 +730,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.3.3.png">
 </picture>
 
-> ### Программа 24. 
+> * Программа 24. 
 
 ```csharp
 using System;
@@ -759,7 +759,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.3.4.png">
 </picture>
 
-> ### Программа 25. 
+> * Программа 25. 
 
 ```csharp
 using System;
@@ -790,7 +790,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.3.5.png">
 </picture>
 
-> ### Программа 26. 
+> * Программа 26. 
 
 ```csharp
 using System;
@@ -822,7 +822,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.3.6.png">
 </picture>
 
-> ### Программа 27. 
+> * Программа 27. 
 
 ```csharp
 using System;
@@ -855,7 +855,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.3.7.png">
 </picture>
 
-> ### Программа 28. 
+> * Программа 28. 
 
 ```csharp
 using System;
@@ -886,7 +886,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.3.8.png">
 </picture>
 
-> ### Программа 29. 
+> * Программа 29. 
 
 ```csharp
 using System;
@@ -919,7 +919,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.3.9.png">
 </picture>
 
-> ### Программа 30. 
+> * Программа 30. 
 
 ```csharp
 using System;
@@ -951,7 +951,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.3.10.png">
 </picture>
 
-> ### Программа 31. 
+> * Программа 31. 
 
 ```csharp
 using System;
@@ -982,7 +982,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.4.1.png">
 </picture>
 
-> ### Программа 32. 
+> * Программа 32. 
 
 ```csharp
 using System;
@@ -1013,7 +1013,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 33. 
+> * Программа 33. 
 
 ```csharp
 using System;
@@ -1044,7 +1044,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 34. 
+> * Программа 34. 
 
 ```csharp
 using System;
@@ -1075,7 +1075,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 35. 
+> * Программа 35. 
 
 ```csharp
 using System;
@@ -1106,7 +1106,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 36. 
+> * Программа 36. 
 
 ```csharp
 using System;
@@ -1137,7 +1137,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 37. 
+> * Программа 37. 
 
 ```csharp
 using System;
@@ -1176,7 +1176,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 38.
+> * Программа 38.
 
 ```csharp
 using System;
@@ -1207,7 +1207,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 39.
+> * Программа 39.
 
 ```csharp
 using System;
@@ -1239,7 +1239,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 40. 
+> * Программа 40. 
 
 ```csharp
 using System;
@@ -1270,7 +1270,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 41. 
+> * Программа 41. 
 
 ```csharp
 using System;
@@ -1300,7 +1300,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.5.1.png">
 </picture>
 
-> ### Программа 42. 
+> * Программа 42. 
 
 ```csharp
 using System;
@@ -1331,7 +1331,7 @@ namespace dimanchik999
 </picture>
 
 
-> ### Программа 43. 
+> * Программа 43. 
 
 ```csharp
 using System;
@@ -1361,7 +1361,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.5.3.png">
 </picture>
 
-> ### Программа 44. 
+> * Программа 44. 
 
 ```csharp
 using System;
@@ -1423,7 +1423,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.5.5.png">
 </picture>
 
-> ### Программа 46. 
+> * Программа 46. 
 
 ```csharp
 using System;
@@ -1453,7 +1453,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.5.6.png">
 </picture>
 
-> ### Программа 47. 
+> * Программа 47. 
 
 ```csharp
 using System;
@@ -1483,7 +1483,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.5.7.png">
 </picture>
 
-> ### Программа 48. 
+> * Программа 48. 
 
 ```csharp
 using System;
@@ -1514,7 +1514,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.5.8.png">
 </picture>
 
-> ### Программа 49. 
+> * Программа 49. 
 
 ```csharp
 using System;
@@ -1544,7 +1544,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.5.9.png">
 </picture>
 
-> ### Программа 50. 
+> * Программа 50. 
 
 ```csharp
 using System;
@@ -1574,7 +1574,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.5.10.png">
 </picture>
 
-> ### Программа 51. 
+> * Программа 51. 
 
 ```csharp
 using System;
@@ -1604,7 +1604,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.1.png">
 </picture>
 
-> ### Программа 52. 
+> * Программа 52. 
 
 ```csharp
 using System;
@@ -1634,7 +1634,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.2.png">
 </picture>
 
-> ### Программа 53. 
+> * Программа 53. 
 
 ```csharp
 using System;
@@ -1663,7 +1663,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.3.png">
 </picture>
 
-> ### Программа 54. 
+> * Программа 54. 
 
 ```csharp
 using System;
@@ -1691,7 +1691,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.4.png">
 </picture>
 
-> ### Программа 55. 
+> * Программа 55. 
 
 ```csharp
 using System;
@@ -1721,7 +1721,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.5.png">
 </picture>
 
-> ### Программа 56. 
+> * Программа 56. 
 
 ```csharp
 using System;
@@ -1751,7 +1751,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.6.png">
 </picture>
 
-> ### Программа 57. 
+> * Программа 57. 
 
 ```csharp
 using System;
@@ -1781,7 +1781,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.7.png">
 </picture>
 
-> ### Программа 58. 
+> * Программа 58. 
 
 ```csharp
 using System;
@@ -1811,7 +1811,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.8.png">
 </picture>
 
-> ### Программа 59. 
+> * Программа 59. 
 
 ```csharp
 using System;
@@ -1839,7 +1839,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.9.png">
 </picture>
 
-> ### Программа 60. 
+> * Программа 60. 
 
 ```csharp
 using System;
@@ -1869,7 +1869,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.6.10.png">
 </picture>
 
-> ### Программа 61. 
+> * Программа 61. 
 
 ```csharp
 using System;
@@ -1901,7 +1901,7 @@ namespace dimanchik999
 
 
 
-> ### Программа 62. 
+> * Программа 62. 
 
 ```csharp
 using System;
@@ -1932,7 +1932,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.7.2.png">
 </picture>
 
-> ### Программа 63. 
+> * Программа 63. 
 
 ```csharp
 using System;
@@ -1962,7 +1962,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.7.3.png">
 </picture>
 
-> ### Программа 64. 
+> * Программа 64. 
 
 ```csharp
 using System;
@@ -1992,7 +1992,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.7.4.png">
 </picture>
 
-> ### Программа 65. 
+> * Программа 65. 
 
 ```csharp
 using System;
@@ -2021,7 +2021,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.7.5.png">
 </picture>
 
-> ### Программа 66. 
+> * Программа 66. 
 
 ```csharp
 using System;
@@ -2051,7 +2051,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.7.6.png">
 </picture>
 
-> ### Программа 67. 
+> * Программа 67. 
 
 ```csharp
 using System;
@@ -2082,7 +2082,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.7.7.png">
 </picture>
 
-> ### Программа 68. 
+> * Программа 68. 
 
 ```csharp
 using System;
@@ -2112,7 +2112,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.7.8.png">
 </picture>
 
-> ### Программа 69. 
+> * Программа 69. 
 
 ```csharp
 using System;
@@ -2145,7 +2145,7 @@ namespace dimanchik999
   <img src="https://github.com/yellowmonth/Practic-Number-2/blob/main/screens/3.7.9.png">
 </picture>
 
-> ### Программа 70. 
+> * Программа 70. 
 
 ```csharp
 using System;
